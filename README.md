@@ -24,4 +24,9 @@ O objetivo dessa análise é empregar modelos de classificação e investigar a 
 
 ## Análise exploratória
 
+Há uma diferença significativa no turnover entre homens e mulheres. Uma fração maior das mulheres deixa um emprego após 1 ano.
+
+![sexo](https://user-images.githubusercontent.com/88217999/163504807-29db0024-df7c-425d-a4f2-89ae07eeb4e5.png)
+
+A distribuição das idades é assimétrica à direita.
 
