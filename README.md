@@ -21,3 +21,7 @@ Temos as seguintes variáveis:
     * Salário
     
 O objetivo dessa análise é empregar modelos de classificação e investigar a capacidade desses de prever o turnover.
+
+## Análise exploratória
+
+
