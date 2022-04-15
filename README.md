@@ -30,3 +30,8 @@ Há uma diferença significativa no turnover entre homens e mulheres. Uma fraç�
 
 A distribuição das idades é assimétrica à direita.
 
+![idades](https://user-images.githubusercontent.com/88217999/163505612-2489acac-3e8d-48b8-ba16-fbaf435551f1.png)
+
+Nós aplicamos uma transformação logarítmica nas idades o obtemos uma distribuição mais próxima da normal.
+
+
