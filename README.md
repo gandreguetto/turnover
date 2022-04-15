@@ -34,4 +34,6 @@ A distribuição das idades é assimétrica à direita.
 
 Nós aplicamos uma transformação logarítmica nas idades o obtemos uma distribuição mais próxima da normal.
 
+![log_idades](https://user-images.githubusercontent.com/88217999/163505936-6730b7aa-8fcb-41a0-b14a-c78b97aeefeb.png)
+
 
