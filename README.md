@@ -38,5 +38,8 @@ Nós aplicamos uma transformação logarítmica nas idades o obtemos uma distrib
 
 No gráfico de dispersão envolvendo as idades e salários há alguma indicação de que o turnover é mais frequente nas pessoas mais velhas e com maiores salários.
 
+![idades_salarios](https://user-images.githubusercontent.com/88217999/163892032-f7275cca-2df0-4f7e-ae3e-5bbe54e543ea.png)
 
+## Machine Learning
 
+Foram testados diferentes modelos e o método de validação utilizado foi o K-fold.O melhor modelo foi selecionado de acordo o f1-score.Dos modelos testados, o modelo com melhor perfomance foi o Gradient Boosting.
