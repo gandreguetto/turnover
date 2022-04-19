@@ -54,6 +54,8 @@ O modelo é, portanto, capaz de prever aproximadamente 87% dos desligamentos que
 
 ## Variáveis de importância
 
+![variaveis_importancia](https://user-images.githubusercontent.com/88217999/163901048-efbda4de-c52b-4b4f-b6f0-ca0a6d3d5b09.png)
+
 Observa-se que o salário é a variável de maior importância na classificação com larga superioridade sobre as demais. 
 
 Em seguida, tem-se as horas de trabalho e a variável que informa se o setor da empresa é de construção civil.
