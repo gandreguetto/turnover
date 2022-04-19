@@ -49,3 +49,13 @@ Foram testados diferentes modelos e o método de validação utilizado foi o K-f
 As variáveis: Raça/Cor, Deficiência e UF têm pequena influência no f1-score e foram retiradas da análise.
 
 A tunagem de hiperparâmetros não apresentou melhora no desempenho do modelo e a classificação final foi dada pelo modelo padrão de Gradient Boosting.
+
+O modelo é, portanto, capaz de prever aproximadamente 87% dos desligamentos que ocorreram (sensibilidade) e 71% das previsões de desligamento que o modelo faz são corretas.
+
+## Variáveis de importância
+
+Observa-se que o salário é a variável de maior importância na classificação com larga superioridade sobre as demais. 
+
+Em seguida, tem-se as horas de trabalho e a variável que informa se o setor da empresa é de construção civil.
+
+Ainda com certa relevância aparecem as variáveis da idade, se a pessoa apresenta superior completo e sexo. As demais variáveis têm importância muito pequena.
