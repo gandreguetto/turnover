@@ -50,7 +50,7 @@ As variáveis: Raça/Cor, Deficiência e UF têm pequena influência no f1-score
 
 A tunagem de hiperparâmetros não apresentou melhora no desempenho do modelo e a classificação final foi dada pelo modelo padrão de Gradient Boosting.
 
-O modelo é, portanto, capaz de prever aproximadamente 87% dos desligamentos que ocorreram (sensibilidade) e 71% das previsões de desligamento que o modelo faz são corretas.
+O modelo é, portanto, capaz de prever aproximadamente 87% dos desligamentos que ocorreram (sensibilidade) e 71% das previsões de desligamento que o modelo faz são corretas (precisão).
 
 ## Variáveis de importância
 
